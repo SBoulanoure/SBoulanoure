@@ -26,9 +26,7 @@
   ❤️ Love writing code and embracing new features <br/><br/>
   📧 Reach me anytime: soufainebou2004@gmail.com
 </p>
-
-  [![](https://visitcount.itsvg.in/api?id=soufiane&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-  [![](https://visitcount.itsvg.in/api?id=sevo&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SBoulanoure&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
  
 </p>
 
