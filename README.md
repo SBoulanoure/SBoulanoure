@@ -1,22 +1,22 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/adam-rohal-30884520a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AdRohal"/>
+  <a href="https://www.linkedin.com/in/soufiane-boulanouar-38665b265" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soufiane"/>
   </a>
-  <a href="https://twitter.com/Adaam_21" target="_blank">
+  <a href="https://twitter.com/Sevo_soufaine" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rhladam_" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="AdRohal" />
+  <a href="https://www.instagram.com/soufain_e_" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="soufiane" />
   </a> 
-  <a href="https://facebook.com/adam.rohal.58" target="_blank"> 
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AdRohal"  />
+  <a href="https://web.facebook.com/soufaine19" target="_blank"> 
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="soufiane"  />
   </a> 
 </p>
 
 <!-- About Me Section -->
 # About Me
 
-- 👋 Hi, I’m @AdRohal
+- 👋 Hi, I’m @soufiane
 - 👀 I’m interested in Full Stack Development, including front-end and back-end technologies with proficiency in C#, Python, Java, HTML, CSS, and JavaScript.
 - 🌱 I’m currently learning Python & ML.
 - 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
@@ -26,7 +26,7 @@
   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
-  [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=soufiane&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
  
 </p>
 
@@ -55,10 +55,10 @@
    <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 
 # 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=soufiane&margin-w=15)
 
 ## ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdRohal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=soufiane&limit=5&theme=dark&combine_all_yearly_contributions=true)
