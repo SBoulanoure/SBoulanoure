@@ -16,16 +16,17 @@
 <!-- About Me Section -->
 # About Me
 
-- 👋 Hi, I’m @soufiane
-- 👀 I’m interested in Full Stack Development, including front-end and back-end technologies with proficiency in C#, Python, Java, HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning Python & ML.
-- 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
+👋 Hi, I’m Soufiane! 
+👀 I’m passionate about Full Stack Development, encompassing both front-end and back-end technologies. I'm proficient in C#, Python, Java, HTML, CSS, and JavaScript.
+🌱 Currently, I’m diving into Python and Machine Learning to expand my skill set and explore new possibilities.
+💞️ I’m eager to collaborate on full-stack software projects that utilize my expertise in both front-end and back-end development.
 
-<p>
-  
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-  📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
+<p align="center">
+  ✌️ Enjoy programming and sharing knowledge <br/><br/>
+  ❤️ Love writing code and embracing new features <br/><br/>
+  📧 Reach me anytime: soufainebou2004@gmail.com
+</p>
+
   [![](https://visitcount.itsvg.in/api?id=soufiane&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
  
 </p>
