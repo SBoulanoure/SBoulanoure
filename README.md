@@ -57,10 +57,10 @@
 
 
 # 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=soufiane&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=SBoulanoure&margin-w=15)
 
 ## ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soufiane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SBoulanoure&limit=5&theme=dark&combine_all_yearly_contributions=true)
